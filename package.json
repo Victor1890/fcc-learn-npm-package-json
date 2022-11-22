@@ -1,9 +1,9 @@
 {
+	"author": "Victor J. Rosario V. (victorrosariodeveloper@gmail.com)",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
-	"author": "Victor J. Rosario V. (victorrosariodeveloper@gmail.com)",
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
